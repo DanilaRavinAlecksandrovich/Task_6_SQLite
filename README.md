@@ -1,1 +1,1 @@
-# Task_6_SQLite
+# Task_6_SQLite по дисциплине ООП
